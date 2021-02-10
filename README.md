@@ -21,11 +21,20 @@ A. M. A. Ahmed, Y. Zhang and F. Eliassen, "Generative Adversarial Networks and T
 
 BibTeX:
 @INPROCEEDINGS{9302933,
+
   author={A. M. A. {Ahmed} and Y. {Zhang} and F. {Eliassen}},
+  
   booktitle={2020 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm)}, 
+  
   title={Generative Adversarial Networks and Transfer Learning for Non-Intrusive Load Monitoring in Smart Grids}, 
+  
   year={2020},
+  
   volume={},
+  
   number={},
+  
   pages={1-7},
+  
   doi={10.1109/SmartGridComm47815.2020.9302933}}
+  

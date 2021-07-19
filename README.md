@@ -6,6 +6,8 @@ https://www.youtube.com/watch?v=Z_K5YEuSCOs&t=4s
 Which is a suymmary of this paper:
 https://ieeexplore.ieee.org/document/9302933
 
+![nilm](figures/GANNILM.png)
+
 # Dataset  
 Datasets used can be found:  
 1. REFIT: https://www.refitsmarthomes.org/datasets/  

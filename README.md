@@ -6,7 +6,23 @@ https://www.youtube.com/watch?v=Z_K5YEuSCOs&t=4s
 Which is a suymmary of this paper:
 https://ieeexplore.ieee.org/document/9302933
 
+![nilm](figures/NILM.png)
+
+
+# Model 1
+
 ![nilm](figures/GANNILM.png)
+
+# Transfer Learning
+![nilm](figures/tl.png)
+
+# Model 2 
+
+![nilm](figures/trganilm.png)
+
+# Evaluation
+
+![nilm](figures/GANNILMeval.png)
 
 # Dataset  
 Datasets used can be found:  

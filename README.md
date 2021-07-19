@@ -10,6 +10,9 @@ https://www.youtube.com/watch?v=Z_K5YEuSCOs&t=4s
 
 ![nilm](figures/NILM.png)
 
+# Content  
+The repository consists of ipynb files of the experiment already run. It still shows the outputs that were not deleted to give insigts about the results.  
+
 # Model 1
 
 ![nilm](figures/GANNILM.png)
@@ -31,8 +34,6 @@ Datasets used can be found:
 2. UKDALE: https://jack-kelly.com/data/  
 3. REDD: http://redd.csail.mit.edu/  
 
-# Content  
-The repository consists of ipynb files of the experiment already run. It still shows the outputs that were not deleted to give insigts about the results.  
 
 # Citation  
 Please cite:  

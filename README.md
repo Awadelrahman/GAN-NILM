@@ -3,9 +3,11 @@ GAN-NILM tries to perform Non-Intrusive Load Monitoring using Generative Adversa
 That is, in plain language, a model that takes only a building total measurement and tries to tell which appliances are On/Off at every time step.  
 
 The complete model and results is discussed in our paper:
+
 [A. M. A. Ahmed, Y. Zhang and F. Eliassen, "Generative Adversarial Networks and Transfer Learning for Non-Intrusive Load Monitoring in Smart Grids," 2020 IEEE SmartGridComm](https://ieeexplore.ieee.org/document/9302933)
 
 A summary can be found in this video presentaion:
+
 https://www.youtube.com/watch?v=Z_K5YEuSCOs&t=4s  
 
 
